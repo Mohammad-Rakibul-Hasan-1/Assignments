@@ -10,6 +10,7 @@
     justify-content: space-between;
     align-items: center;
     margin: 10px 50px;
+    flex-wrap: wrap;
 }
 
 .navbar-logo {
