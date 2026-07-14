@@ -1,0 +1,2 @@
+1.Hey chatgpt think you are a web developer.i just build a website using html and css on developer conference.there is header section with navigations to speakers,venue, tracks,blog,schedule then the hero section then the speaker section then the pricing section at last the footer section..now i want to add another section after pricing section .can you privode me idea and design about the section so that i can code 
+2.i want to add the faq sections that contains the schedule qustion and answer
